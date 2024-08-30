@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+}
+
+.glassmorphism {
+  @apply bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg border border-white border-opacity-30;
+}
+
+.theme-monokai {
+  --primary-color: #272822;
+  --text-color: #F8F8F2;
+  --accent-color: #66D9EF;
+  --folder-color: #A6E22E;
+  --file-color: #F8F8F2;
+  --button-bg: #49483E;
+  --button-text: #F8F8F2;
+  --button-hover: #75715E;
+}
+
+.theme-dracula {
+  --primary-color: #282A36;
+  --text-color: #F8F8F2;
+  --accent-color: #BD93F9;
+  --folder-color: #50FA7B;
+  --file-color: #F8F8F2;
+  --button-bg: #44475A;
+  --button-text: #F8F8F2;
+  --button-hover: #6272A4;
+}
+
+.theme-solarized {
+  --primary-color: #002B36;
+  --text-color: #839496;
+  --accent-color: #B58900;
+  --folder-color: #2AA198;
+  --file-color: #839496;
+  --button-bg: #073642;
+  --button-text: #EEE8D5;
+  --button-hover: #586E75;
+}
+
+.home-container {
+  color: var(--text-color);
+  /* background-color: var(--primary-color); */
+}
+
+.glassmorphism {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+button {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+}
+
+button:hover {
+  background-color: var(--button-hover);
+}
+
+.folder-name {
+  color: var(--folder-color);
+}
+
+.file-name {
+  color: var(--file-color);
+}
