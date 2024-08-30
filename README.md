@@ -1,6 +1,7 @@
 # 🌟 LTNG File Browser 🌟
 
 Welcome to LTNG File Browser, a modern, sleek, and powerful file browsing application built with cutting-edge technologies! 🚀
+![Screenshot 2024-08-29 at 10 39 43 PM](https://github.com/user-attachments/assets/40fcd206-e57c-4c27-85a5-e6e42606b48d)
 
 ## 📖 About
 
