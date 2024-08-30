@@ -1,40 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌟 LTNG File Browser 🌟
 
-## Getting Started
+Welcome to LTNG File Browser, a modern, sleek, and powerful file browsing application built with cutting-edge technologies! 🚀
 
-First, run the development server:
+## 📖 About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+LTNG File Browser is a cross-platform desktop application that allows you to browse and preview files on your system with ease. It combines the power of Tauri, React, and Next.js to provide a smooth and responsive user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🗂️ Browse files and directories
+- 👀 Preview various file types (images, videos, PDFs, text)
+- 🖼️ Pop-out window for file previews
+- 🔍 Search functionality (coming soon!)
+- 🌓 Dark mode support (coming soon!)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️ Technologies Used
 
-## Learn More
+- [Tauri](https://tauri.app/) - For building the desktop application
+- [React](https://reactjs.org/) - For building the user interface
+- [Next.js](https://nextjs.org/) - For server-side rendering and routing
+- [TypeScript](https://www.typescriptlang.org/) - For type-safe JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - For styling
 
-To learn more about Next.js, take a look at the following resources:
+## 🚧 Current Status
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+While LTNG File Browser is functional, we must admit that its current appearance leaves much to be desired 😢😭. We're working hard to improve the user interface and make it as sleek and modern as the technology behind it! 🛠️💪
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Despite its current looks, the core functionality is solid, and we're excited about the potential for improvement. Stay tuned for updates, and feel free to contribute if you have ideas for making it look amazing! 🌈✨
 
-## Deploy on Vercel
+## 🚀 Getting Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [Rust](https://www.rust-lang.org/) (for Tauri)
 
-## License
+### Installation
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/ltng-file-browser.git
+   cd ltng-file-browser
+   ```
+
+2. Install dependencies:
+   ```
+   npm install
+   ```
+
+### Running the Application
+
+1. Start the development server:
+   ```
+   npm run tauri dev
+   ```
+
+This will launch the application in development mode.
+
