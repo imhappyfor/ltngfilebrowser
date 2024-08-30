@@ -1,7 +1,19 @@
 # 🌟 LTNG File Browser 🌟
 
 Welcome to LTNG File Browser, a modern, sleek, and powerful file browsing application built with cutting-edge technologies! 🚀
-![Screenshot 2024-08-29 at 10 39 43 PM](https://github.com/user-attachments/assets/40fcd206-e57c-4c27-85a5-e6e42606b48d)
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/imhappyfor/ltngfilebrowser)
+![GitHub issues](https://img.shields.io/github/issues/imhappyfor/ltngfilebrowser)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/imhappyfor/ltngfilebrowser)
+![License](https://img.shields.io/github/license/imhappyfor/ltngfilebrowser)
+
+![Screenshot 2024-08-29 at 10 39 43 PM](https://github.com/user-attachments/assets/40fcd206-e57c-4c27-85a5-e6e42606b48d)
 
 ## 📖 About
 
@@ -40,7 +52,7 @@ Despite its current looks, the core functionality is solid, and we're excited ab
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ltng-file-browser.git
+   git clone https://github.com/imhappyfor/ltngfilebrowser.git
    cd ltng-file-browser
    ```
 
